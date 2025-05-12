@@ -57,5 +57,10 @@ struct LinkedList {
 int main() {
    LinkedList List ; 
    List.push(20);
+   List.push(20);
+   List.push(20);
+   List.push(20);
+   List.push(20);
+   List.push(20);
    List.printList();
 }
